@@ -1,5 +1,6 @@
 🍷Vinheria Agnello – Sistema de Monitoramento com Arduino
 📌 Descrição do Projeto
+https://wokwi.com/projects/462222538028015617
 
 Este projeto foi desenvolvido como parte do Checkpoint 01 da disciplina de Edge Computing
 
