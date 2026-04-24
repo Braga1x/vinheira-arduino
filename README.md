@@ -1,7 +1,7 @@
 🍷Vinheria Agnello – Sistema de Monitoramento com Arduino
 📌 Descrição do Projeto
 
-Este projeto foi desenvolvido como parte do Checkpoint 01 da disciplina de Edge Computing & Computer Systems (FIAP – 2026).
+Este projeto foi desenvolvido como parte do Checkpoint 01 da disciplina de Edge Computing
 
 A proposta consiste na criação de um sistema de monitoramento de luminosidade utilizando Arduino, com o objetivo de garantir condições ideais de armazenamento para vinhos na Vinheria Agnello.
 
